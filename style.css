@@ -1,0 +1,57 @@
+.lottery {
+    background: lightyellow
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffba00;
+}
+
+.circle1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+    background: red;
+}
+
+td {
+    font-family: Arial
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+    font-size: 14px;
+    font-weight: 900
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+a:active {
+    color: red;
+}
+
+td img {
+    width: 80px
+}
